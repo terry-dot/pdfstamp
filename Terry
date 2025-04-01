@@ -1,0 +1,8 @@
+"E:\1客户资料\Pharmasyntez\Supplier\福瑞祥和 Parker\Supply Contract(福瑞和祥)_bilingual_R&T_Mar 31, 2025_Clean.pdf"
+"E:\1客户资料\假章\法霖公章.png"
+Page to input the signature, default: 1-10 (default: 1-10)
+Output stamped document, default: output.pdf (default: "output.pdf")
+Signature position from page right (px), 120
+Signature position from page bottom (px), 120
+Signature zoom percentage on page (100% is full pagewidth), default: 10 (default: 10)
+Keeps temporary PDF files (for development purposes)
